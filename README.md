@@ -6,3 +6,6 @@ View my [bookmarked](Bookmarks.md) sources.
 
 ## Theme.json
 View my [Theme.json](Theme.json.md) page.
+
+## Interacting with blocks via JS
+View my [Blocks API (JS) page](Blocks.Api.js.md)
