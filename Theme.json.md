@@ -3,7 +3,7 @@ I will try to organize this into logical sections, but it is a working doc, so p
 
 ## Typography
 
-## Disable typography settings for core blocks (works with 5.9)
+### Disable typography settings for core blocks (works with 5.9)
 ```
 {
 	"version": 2,
