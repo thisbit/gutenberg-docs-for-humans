@@ -9,3 +9,6 @@ View my [Theme.json](Theme.json.md) page.
 
 ## Interacting with blocks via JS
 View my [Blocks API (JS) page](Blocks.Api.js.md)
+
+## Interacting with blocks via PhP
+View my [Blocks API (JS) page](Blocks.Api.php.md)
