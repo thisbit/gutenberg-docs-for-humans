@@ -9,3 +9,7 @@ Here I plan to place all relevant sources about how to do things with gutenberg.
 ## Full Site Editing website
 
 - [Block reference](https://fullsiteediting.com/block-reference/)
+
+## NC state university
+
+- [Block Atts glosary](https://design.oit.ncsu.edu/docs/gutenberg/block-attributes/)
