@@ -13,3 +13,7 @@ Here I plan to place all relevant sources about how to do things with gutenberg.
 ## NC state university
 
 - [Block Atts glosary](https://design.oit.ncsu.edu/docs/gutenberg/block-attributes/)
+
+## Block json
+
+- [Gallery](https://github.com/WordPress/gutenberg/blob/trunk/packages/block-library/src/gallery/block.json)
