@@ -21,3 +21,7 @@ View my [Blocks API (PhP) page](Blocks.Api.php.md)
 ## BlockList
 
 View my [Block List page](BlockList.md)
+
+
+## Templates and Template Locks
+[Template Lock page](TemplateLock.md)
